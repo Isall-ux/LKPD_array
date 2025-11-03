@@ -1,4 +1,4 @@
-# ada dua versi dari tugas yg di berikan dari bapa
+# ada dua versi hasil tugas dari yg bapa berikan
 oh ya jawaban essay jg ada di bawah ini
 
 1. versi yg sesuai dengan ketentuan ppt LKPD
