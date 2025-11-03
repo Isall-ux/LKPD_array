@@ -8,11 +8,13 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "json-server --watch db.json --port 3000"
+    "server": "json-server --watch backend/db.json --port 3000"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "tailwindcss": "^4.1.16"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",

@@ -2,13 +2,7 @@
 oh ya jawaban essay jg ada di bawah ini
 
 1. versi yg sesuai dengan ketentuan ppt LKPD
-2. versi siap pakai bagi guru untuk mengelola nilai siswa 
-
-hal ini dilakukan karna saya ingin mengetes kemampuan saya selama ini untuk membuat projek dengan ketentuan yg diberikan tpi lebih baik.# ada dua versi hasil tugas dari yg bapa berikan
-oh ya jawaban essay jg ada di bawah ini
-
-1. versi yg sesuai dengan ketentuan ppt LKPD
-2. versi siap pakai bagi guru untuk mengelola nilai siswa 
+2. versi siap pakai bagi guru untuk mengelola nilai siswa
 
 hal ini dilakukan karna saya ingin mengetes kemampuan saya selama ini untuk membuat projek dengan ketentuan yg diberikan tpi lebih baik.
 

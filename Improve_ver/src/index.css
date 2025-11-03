@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  /* custom gradient variable */
+  --base-gradient: linear-gradient(to bottom right, white, #bfdbfe);
+}
+
+body {
+  min-height: 100vh;
+  background-image: var(--base-gradient);
+  background-size: cover;
+  background-attachment: fixed;
+}
