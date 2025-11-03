@@ -4,7 +4,36 @@ oh ya jawaban essay jg ada di bawah ini
 1. versi yg sesuai dengan ketentuan ppt LKPD
 2. versi siap pakai bagi guru untuk mengelola nilai siswa 
 
+hal ini dilakukan karna saya ingin mengetes kemampuan saya selama ini untuk membuat projek dengan ketentuan yg diberikan tpi lebih baik.# ada dua versi hasil tugas dari yg bapa berikan
+oh ya jawaban essay jg ada di bawah ini
+
+1. versi yg sesuai dengan ketentuan ppt LKPD
+2. versi siap pakai bagi guru untuk mengelola nilai siswa 
+
 hal ini dilakukan karna saya ingin mengetes kemampuan saya selama ini untuk membuat projek dengan ketentuan yg diberikan tpi lebih baik.
+
+## versi improve (masi unfinished pa, karna gk wajib saya ambil waktu buat ngerjainnya)
+versi ini menggunakan framework react karna react standar industri dan karna itu satu satunya framework yg saya tau 😅
+
+### list teknologi yg di pakai pada versi ini adalah
+ - framework react
+ - library tailwind
+
+### cara start project improve
+
+```bash
+# pastikan kamu ada di folder project improve
+cd improve_ver  
+```
+```bash
+npm i
+```
+```bash
+npm run dev
+```
+<br/>
+
+# jawaban essay lkpd
 
 ## versi improve (masi unfinished pa, karna gk wajib saya ambil waktu buat ngerjainnya)
 versi ini menggunakan framework react karna react standar industri dan karna itu satu satunya framework yg saya tau 😅
@@ -89,7 +118,7 @@ Beberapa kesalahan yang sering terjadi:
    ```js
    console.log(nilai[10]); // undefined
    ```
-2. **mengunakan lebi dari satu tipe data**
+2. **mengunakan lebi dari satu**
    ```js
    let data = [90, "A", true]; // bisa, tapi membingungkan
    ```
