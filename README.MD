@@ -6,7 +6,7 @@ oh ya jawaban essay jg ada di bawah ini
 
 hal ini dilakukan karna saya ingin mengetes kemampuan saya selama ini untuk membuat projek dengan ketentuan yg diberikan tpi lebih baik.
 
-## versi improve
+## versi improve (masi unfinished pa, karna gk wajib saya ambil waktu buat ngerjainnya)
 versi ini menggunakan framework react karna react standar industri dan karna itu satu satunya framework yg saya tau 😅
 
 ### list teknologi yg di pakai pada versi ini adalah
