@@ -89,7 +89,7 @@ Beberapa kesalahan yang sering terjadi:
    ```js
    console.log(nilai[10]); // undefined
    ```
-2. **Salah indeks**
+2. **mengunakan lebi dari satu tipe data**
    ```js
    let data = [90, "A", true]; // bisa, tapi membingungkan
    ```
