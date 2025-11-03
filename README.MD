@@ -28,7 +28,7 @@ npm run dev
 <br/>
 
 # jawaban essay lkpd
-1. Mengapa Kita Memerlukan Array?
+## 1. Mengapa Kita Memerlukan Array?
 Array digunakan untuk **menyimpan banyak data dalam satu variabel**.  
 Tanpa array, kita harus membuat banyak variabel satu per satu.
 
@@ -43,7 +43,7 @@ let nilai3 = 85;
 ```js
 let nilai = [80, 90, 85];
 ```
-2. Bagaimana Array Menghemat Variabel
+## 2. Bagaimana Array Menghemat Variabel
 Array menghemat variabel karena **semua data disimpan dalam satu wadah**.
 
 Misalnya kamu punya 100 nilai siswa:  
@@ -52,7 +52,7 @@ Dengan array, cukup satu:
 ```js
 let nilaiSiswa = [80, 90, 70, 85, 95];
 ```
-3. Apa Dampak Data Bertambah pada Array
+## 3. Apa Dampak Data Bertambah pada Array
 Jika data dalam array bertambah:
 - Ukuran array **bertambah otomatis**.
 - **Akses data bisa sedikit lebih lambat** jika datanya sangat besar.
@@ -65,7 +65,7 @@ angka.push(4);
 console.log(angka); // [1, 2, 3, 4]
 ```
 
-4. Strategi Menampilkan Data Tertentu
+## 4. Strategi Menampilkan Data Tertentu
 Gunakan **indeks**, **looping**, atau **metode array** seperti `filter`, `find`, dan `map`.
 
 **Dengan indeks:**
@@ -82,7 +82,7 @@ let tinggi = nilai.filter(n => n > 85);
 console.log(tinggi); // nilai di atas 85
 ```
 
-5. Kesalahan Umum dalam Penggunaan Array
+## 5. Kesalahan Umum dalam Penggunaan Array
 Beberapa kesalahan yang sering terjadi:
 
 1. **Salah indeks**
